@@ -1,1 +1,2 @@
-# JS_hangman_game
+# Hangman game
+### Written in vanilla javascript
